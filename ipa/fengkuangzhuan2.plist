@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>https://github.com/fengkuangzhuan/file/raw/master/ipa/fengkuangzhuan2.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://github.com/fengkuangzhuan/file/raw/master/ipa/57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://github.com/fengkuangzhuan/file/raw/master/ipa/120.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
